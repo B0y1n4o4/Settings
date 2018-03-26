@@ -1,0 +1,4 @@
+{
+	"autoformat_on_save": true,
+	"ignore": ["E501", "W", "E4"]
+}

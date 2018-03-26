@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3D Tool (Async Burst-Mode)",
+		"Anaconda",
+		"Base Encoder",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DeleteBlankLines",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Material Theme",
+		"Package Control",
+		"phpfmt",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Sync Settings"
+	]
+}
